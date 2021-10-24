@@ -1,3 +1,6 @@
 [submodule "picorv32"]
 	path = picorv32
 	url = git@github.com:PhilippvK/picorv32.git
+[submodule "icebreaker-examples"]
+	path = icebreaker-examples
+	url = git@github.com:PhilippvK/icebreaker-verilog-examples.git
